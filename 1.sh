@@ -17,7 +17,7 @@ chmod 755 config.cfg
 echo "pool
 http://aropool.com/
 DxALfotXmexXMqSBnjrjNGoSqAB6JY6vhjYUXd6NZCehbdkZX8woJVrnBavw5ytw2X3fMUQp2aTohhor6oueAQ4
-20
+1
 enhanced
 true
 hostname" > config.cfg
